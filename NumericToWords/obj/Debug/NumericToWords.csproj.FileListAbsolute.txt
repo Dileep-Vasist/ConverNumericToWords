@@ -1,0 +1,6 @@
+E:\Assignment\NumericToWords\NumericToWords\bin\Debug\NumericToWords.exe.config
+E:\Assignment\NumericToWords\NumericToWords\bin\Debug\NumericToWords.exe
+E:\Assignment\NumericToWords\NumericToWords\bin\Debug\NumericToWords.pdb
+E:\Assignment\NumericToWords\NumericToWords\obj\Debug\NumericToWords.csproj.CoreCompileInputs.cache
+E:\Assignment\NumericToWords\NumericToWords\obj\Debug\NumericToWords.exe
+E:\Assignment\NumericToWords\NumericToWords\obj\Debug\NumericToWords.pdb
