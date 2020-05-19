@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NumericToWords
 {
-    class Program
+    public class Program
     {
         /// <summary>
         /// string Array
